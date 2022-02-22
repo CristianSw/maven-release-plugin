@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>maven-release-plugin</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -43,7 +43,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/CristianSw/maven-release-plugin.git</developerConnection>
         <url>https://github.com/CristianSw/maven-release-plugin</url>
-      <tag>maven-release-plugin-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
