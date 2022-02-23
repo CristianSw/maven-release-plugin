@@ -78,7 +78,4 @@
             <url>packagecloud+https://packagecloud.io/CristianSW/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
-
-
-
 </project>
